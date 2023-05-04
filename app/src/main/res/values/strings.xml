@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Fundamentals_Exersize1</string>
+    <string name="enter_message">Enter message</string>
+    <string name="preview">Preview</string>
+    <string name="title_activity_second" translatable="false">SecondActivity</string>
+
+
+    <string name="your_message_will_be_shown_here">Your message will be shown here</string>
+    <string name="send_by_email">Send by email</string>
+    <string name="email_subject">My message to you</string>
+    <string name="email_adress" translatable="false">gigachad228@gmail.com</string>
+    <string name="no_email_app_found">Seems no app can send this:(</string>
+</resources>

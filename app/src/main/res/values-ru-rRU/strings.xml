@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fundamentals_Exersize1</string>
+    <string name="enter_message">Введите текст</string>
+    <string name="preview">Посмотреть</string>
+    <string name="your_message_will_be_shown_here">Ваше сообщение будет видно здесь</string>
+    <string name="send_by_email">Отправить по почте</string>
+    <string name="email_subject">Мое сообщение вам</string>
+    <string name="no_email_app_found">Кажется у вас нету приложения почты :(</string>
+</resources>
