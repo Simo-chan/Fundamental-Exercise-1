@@ -13,15 +13,13 @@
         android:layout_weight="1"
         android:gravity="center"
         android:text="@string/your_message_will_be_shown_here"
-        android:textSize="25sp">
-    </TextView>
+        android:textSize="25sp" />
 
     <Button
         android:id="@+id/send_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/send_by_email">
-    </Button>
+        android:text="@string/send_by_email" />
 
 
 </LinearLayout>
